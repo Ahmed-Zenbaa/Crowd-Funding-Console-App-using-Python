@@ -7,11 +7,6 @@
 
 ######################################################################################
 
-Credit where credit is due: 
-Special thanks to (Eng/Noha Shehab) https://github.com/NohaAShehab for her instructions, effort and guidance through my learning process.
-
-######################################################################################
-
 Note the following:
 
 1)make sure to have (main-script.py) and (entry.py) in the same folder.

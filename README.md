@@ -4,6 +4,11 @@ open in raw form for better readability
 
   	This Croud Funding Console App via Python
  	    	   was created By: Eng/Ahmed Zenbaa
+
+######################################################################################
+
+Credit where credit is due: Special thanks to (Eng/Noha Shehab) https://github.com/NohaAShehab for her instructions, effort and guidance through my learning process.
+
 ######################################################################################
 
 Note the following:
@@ -36,10 +41,6 @@ Road-Map:
     • User can edit his own projects.
     • User can delete his own project.
     • User can search for a project using start or end date.
-
-######################################################################################
-
-Credit where credit is due: Special thanks to (Eng/Noha Shehab) https://github.com/NohaAShehab for her instructions, effort and guidance through my learning process.
 
 ######################################################################################
 

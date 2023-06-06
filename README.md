@@ -1,5 +1,5 @@
 # Crowd-Funding-Console-App-using-Python
-open in raw form for better readability 
+***open in raw form for better readability*** 
 ######################################################################################
 
   	This Croud Funding Console App via Python

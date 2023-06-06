@@ -7,7 +7,8 @@ open in raw form for better readability
 
 ######################################################################################
 
-Credit where credit is due: Special thanks to (Eng/Noha Shehab) https://github.com/NohaAShehab for her instructions, effort and guidance through my learning process.
+Credit where credit is due: 
+Special thanks to (Eng/Noha Shehab) https://github.com/NohaAShehab for her instructions, effort and guidance through my learning process.
 
 ######################################################################################
 

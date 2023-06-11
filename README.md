@@ -2,7 +2,7 @@
 ***open in raw form for better readability*** 
 ######################################################################################
 
-  	This Croud Funding Console App via Python
+  	This Crowd Funding Console App via Python
  	    	   was created By: Eng/Ahmed Zenbaa
 
 ######################################################################################
